@@ -15,4 +15,4 @@ pyautogui.write(a)
 pyautogui.write('.txt')
 pyautogui.press('enter') #press enter
 #process.terminate()
-#github.com/Manishraj94112
+#github.com/Manish00322
